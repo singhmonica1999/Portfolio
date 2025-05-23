@@ -28,7 +28,7 @@ function Certificate() {
               isBlog={false}
               title="Cloud DevOps"
               description="Cloud DevOps Udacity Nanodegree course Learned Cloud Fundamentals, explored tools and services offered by Amazon web Services( AWS)."
-              ghLink="https://github.com/singhmonica1999"
+             
             />
           </Col>
 
