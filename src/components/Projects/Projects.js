@@ -28,7 +28,7 @@ function Projects() {
               title="Software Engineer Intern"
               company="Natwest Group"
               time= "( July 2022 - Jan 2023 )"
-              description="As a full stack developer, also worked Contributed to transforming a PlatformPlanner Tool from Excel VBA to a modern web application using ReactJS and Spring Boot, improving UI, scalability, and maintainability."
+              description="As a full stack developer, Contributed to transforming a PlatformPlanner Tool from Excel VBA to a modern web application using ReactJS and Spring Boot, improving UI, scalability, and maintainability."
             />
           </Col>
 
