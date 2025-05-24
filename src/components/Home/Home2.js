@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
+import pic from "../../Assets/pic.png";
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -33,7 +34,7 @@ function Home2() {
             <Tilt>
             <img
               className="img-fluid"
-              src="/pic.png"
+              src={pic}
               alt="logo"
             />
 
