@@ -1,12 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiReact,
-  DiNodejs,
-  DiMongodb,
-  DiPython,
-  DiGit,
   DiJava
 } from "react-icons/di";
 import {
@@ -18,8 +13,7 @@ import {
   SiSpringboot,
   SiJunit5
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
-
+import rest from "../../Assets/rest.png";
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
@@ -36,7 +30,7 @@ function Techstack() {
               className="img-fluid logo"
               width={40}
               height={40}
-              src="/rest.png"
+              src={rest}
               alt="logo"
             />
         <div style={{ fontSize: "0.4em", paddingBottom: "10px" }}>REST</div>
